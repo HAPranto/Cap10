@@ -1,0 +1,57 @@
+1. open wikipedia
+2. open youtube
+3. open google,serch on googl
+4. open stackoverflow
+5. open facebook
+6. open free codecamp
+7. open w3school
+8. open bangladesh rail
+9. open geeks for geeks
+10. open cricbuzz
+11. open map
+12. open translate
+13. play music
+14. play video song bangla
+15. play video song english
+16. play video song hinde
+17. ip address
+18. 'the time' or 'what time is it'
+19. set alarm
+20. open chrome
+21. close chrome
+22. open brave
+23. close brave
+24. open pycharm
+25. close pycharm
+26. open code block
+27. close code block
+28. open vs code
+29. close vs code
+30. open visual studio
+31. close visual studio
+32. open command prompt
+33. open notepad
+34. open camera
+35. open discord
+36. 'where i am' or 'where we are'
+37. read pdf
+38. 'do some calculations' or 'can you calculate'
+39. 'take screenshot' or 'take a screenshot'
+40. tell me a joke
+41. switch the window
+42. tell me news
+43. sut down the system
+44. restart the system
+45. sleep the system
+46. 'no thanks' or 'exit'
+47. temperature
+48. help
+49. cut this file,cut this line,cut this folder
+50. copy this file,copy this line,copy this folder
+51. pest this file,pest this line,pest this folder
+52. select the line,select the file,select the folder
+53. undu
+54. redu
+55. max the window
+56. minimize the window
+57. close the window

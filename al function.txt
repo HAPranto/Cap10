@@ -1,0 +1,16 @@
+#mainPage
+tk = tk()
+def time()
+def temp()
+def commandForUser()
+def Help()
+def onlyText()
+tk.mainloop()
+#voice
+def speak(audio)
+def Helper()
+def wishMe()
+def takeCommand()
+def news()
+def pdf_reader()
+def allVoice()
